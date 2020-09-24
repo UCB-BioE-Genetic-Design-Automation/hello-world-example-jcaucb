@@ -21,6 +21,7 @@ public class MakeGreating {
     public static void main(String[] args) throws Exception {
         //Create some arguments
         Person betty = new Person("Betty");
+        
         Person bill = new Person("Bill");
         Person bai = new Person("Bai");
         
